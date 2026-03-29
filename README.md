@@ -1,7 +1,7 @@
 # SDA
 SDA : Struktur Data dan Algoritma
 
-👥 By : Yoga Karang (42530019) and Dika Gus Septa (42530015)
+👥 By : Yoga Karang (42530013) and Dika Gus Septa (42530015)
 
 Tugas kelompok
 
